@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&nbsp;to&nbsp;my&nbsp;Git!&nbsp;🙌🏻&fontSize=50&animation=twinkling)
 
-<h2 align="center">Hi there 👋. I'm DongHyun. Happy to meet you.</h2>
+<h3 align="center">Hi there 👋 </h3>
+<h4 align='center'>I'm DongHyun. Happy to meet you.</h4>
+<div style="width: 650px; margin: 0 auto;">
+  <hr>
+</div>
+<br>
 
 <!-- 기술 스택 뱃지 표시 -->
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
