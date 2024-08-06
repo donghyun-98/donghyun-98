@@ -2,3 +2,6 @@
 
 
 <h2>Hi there 👋 I'm DongHyun. Happy to meet you.</h2>
+h2 {
+    text-align: center;
+}
