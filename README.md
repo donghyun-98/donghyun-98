@@ -12,14 +12,12 @@
 </p>
 
 <!-- 내 블로그 소개 -->
-<br>
 <h3 align="center">📬 About Me 📬</h3>
 <p align="center">
   <a href="https://velog.io/@ehdtkd98/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ehdtkd98/posts"/></a>&nbsp
 </p>
 
 <!-- 깃 스텟 표시하기 -->
-<br>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${donghyun-98}">
