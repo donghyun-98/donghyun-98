@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&nbsp;to&nbsp;my&nbsp;Git!&nbsp;🙌🏻&fontSize=50&animation=twinkling)
 
-<h1 align="center">Hi there 👋. I'm DongHyun. Happy to meet you.</h1>
+<h2 align="center">Hi there 👋. I'm DongHyun. Happy to meet you.</h2>
 
 <!-- 기술 스택 뱃지 표시 -->
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-
+<!-- 내 블로그 소개 -->
 <br>
 <h3 align="center">📬 About Me 📬</h3>
 <p align="center">
@@ -27,6 +27,7 @@
   </a>
 </p>
 
+<!-- 방문자 수 표기 -->
 <br><br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyun-98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
