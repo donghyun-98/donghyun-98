@@ -2,9 +2,6 @@
 
 <h3 align="center">Hi there 👋 </h3>
 <h4 align='center'>I'm DongHyun. Happy to meet you.</h4>
-<div style="width: 650px; margin: 0 auto;">
-  <hr>
-</div>
 <br>
 
 <!-- 기술 스택 뱃지 표시 -->
